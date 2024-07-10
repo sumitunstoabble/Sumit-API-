@@ -1,2 +1,1 @@
-# Sumit-API-
-Repo of API
+# PNR-status
